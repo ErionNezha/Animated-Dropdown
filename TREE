@@ -1,0 +1,11 @@
+Animated-Dropdown/
+  demo/
+    index.html
+    style.css
+  index.html
+  original/
+    animated-dropdown/
+      index.html
+      style.css
+  PROVENANCE_LICENSE.txt
+  README.md
